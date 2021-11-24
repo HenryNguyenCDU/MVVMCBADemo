@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  RSSReader
+*/
+
+// English language
+"There is no internet connection" = "There is no internet connection";
+"Select channel" = "Select channel";
+"Ok" = "Ok";
+"Cancel" = "Cancel";
+"Details" = "Details";
+"Browse" = "Browse";
+"WARNING" = "WARNING";
+"REQUEST ERROR" = "REQUEST ERROR";
+"Something went wrong. Please try again later" = "Something went wrong. Please try again later";
