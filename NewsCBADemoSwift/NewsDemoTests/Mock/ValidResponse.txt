@@ -1,0 +1,2 @@
+
+{"status":"ok", "totalResults": "38", "articles":[{"title":"Covid_Live _Updates","urlToImage":"https://static01.nyt.com/images/2021/11/25/multimedia/25-parade-promo-01/25-parade-promo-01-facebookJumbo.jpg", "url":"https://www.nytimes.com/live/2021/11/25/world/covid-vaccine-boosters-mandates"},{"title":"Unit Test","description": "", "urlToImage":"https://static01.nyt.com/images/2021/11/25/world/25xp-newark/25xp-newark-facebookJumbo.jpg", "url":"https://www.nytimes.com/2021/11/25/nyregion/new-jersey-police-officer-car-home.html"}]}
